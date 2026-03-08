@@ -18,11 +18,9 @@ Performance evaluation
 
 Models Used :
 -Linear Regression
-R²: -0.10
-MAE: 27.18 minutes
+
 -Logistic Regressio
-Accuracy: 40%
-AUC: 0.37
+
 Results indicate weak predictive relationships in the dataset.
 
 Tech Stack :
